@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 eza test
-=======
 reza test
->>>>>>> reza.txt
