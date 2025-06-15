@@ -4,3 +4,4 @@ all hapus
 al tambah
 reza add
 reza hapus
+update al tapi ada reza
